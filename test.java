@@ -1,6 +1,6 @@
 public class test {
   public static void main(String[] args) {
-    String name = "Alice";
+    String name = "sudarshan M C";
     int age = 25;
     double score = 89.5;
 
